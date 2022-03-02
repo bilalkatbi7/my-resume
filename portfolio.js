@@ -161,7 +161,7 @@ export const experience = [
 	{
 		role: "Software Engineer",
 		company: "Aveneus",
-		companylogo: "/img/icons/common/avenues.png",
+		companylogo: "img/icons/common/avenues.png",
 		date: "June 2018 – Present",
 		desc: "Web Developer.",
 		// descBullets: [
